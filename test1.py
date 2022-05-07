@@ -30,6 +30,14 @@ def main(WIDTH,HEIGHT):
                 print(event.unicode,event.key)
                 print(pygame.mouse.get_pos())
                 print(pygame.mouse.get_rel())#from previous position
+            if event.type == pygame.MOUSEMOTION:
+                print(event)
+                print('motion')
+                print('')
+            if event.type == pygame.MOUSEWHEEL:
+                print(event)
+                print('wheel')
+                print('')
             if event.type == pygame.MOUSEBUTTONDOWN:
                 print(event)
                 print('DOWN',event.button)#1:leftclick, 2:middleclick, 3:rightclick, 4:scrollup, 5:scrolldown

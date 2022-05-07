@@ -803,4 +803,151 @@ N<Event(769-KeyUp {'unicode': '', 'key': 1073742051, 'mod': 4096, 'scancode': 22
 (0, 0)
 NNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
 
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+NNNNNNNNNN<Event(1024-MouseMotion {'pos': (126, 18), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+motion
+
+NNN<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 3, 'touch': False, 'window': None})>
+DOWN 3
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 3, 'touch': False, 'window': None})>
+UP 3
+(126, 18)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': 1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': 1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': 1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': -1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': -1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': -1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': -1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(126, 18)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 3, 'touch': False, 'window': None})>
+DOWN 3
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 3, 'touch': False, 'window': None})>
+UP 3
+(126, 18)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': 1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(126, 18)
+(0, 0)
+N<Event(1027-MouseWheel {'flipped': False, 'y': 1, 'x': 0, 'touch': False, 'window': None})>
+wheel
+
+N<Event(1025-MouseButtonDown {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(126, 18)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (126, 18), 'button': 5, 'touch': False, 'window': None})>
+N<Event(1024-MouseMotion {'pos': (153, 8), 'rel': (27, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+motion
+N<Event(1024-MouseMotion {'pos': (201, 0), 'rel': (48, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+motion
+NNNNQ: <Event(256-Quit {})>
+
 (env) D:\Python\Test3env>
+
+
+
+
+
+
+
