@@ -14,40 +14,16 @@ def main(WIDTH,HEIGHT):
     run = True
     while run:
         for event in pygame.event.get():
-            print('N',end='')
             if event.type == pygame.QUIT:
-                print('Q:',event)
                 run = False
                 break
-            #print(event.type)
-            if event.type == pygame.KEYDOWN:
-                print(event)
-                print(event.unicode,event.key)
-                print(pygame.mouse.get_pos())
-                print(pygame.mouse.get_rel())#from previous position
-            if event.type == pygame.KEYUP:
-                print(event)
-                print(event.unicode,event.key)
-                print(pygame.mouse.get_pos())
-                print(pygame.mouse.get_rel())#from previous position
-            if event.type == pygame.MOUSEMOTION:
-                print(event)
-                print('motion')
-                print('')
-            if event.type == pygame.MOUSEWHEEL:
-                print(event)
-                print('wheel')
-                print('')
-            if event.type == pygame.MOUSEBUTTONDOWN:
-                print(event)
-                print('DOWN',event.button)#1:leftclick, 2:middleclick, 3:rightclick, 4:scrollup, 5:scrolldown
-                print(event.pos)
-                print(pygame.mouse.get_rel())#from previous position 
-            if event.type == pygame.MOUSEBUTTONUP:
-                print(event)
-                print('UP',event.button)#1:leftclick, 2:middleclick, 3:rightclick, 4:scrollup, 5:scrolldown
-                print(event.pos)
-                print(pygame.mouse.get_rel())#from previous position you started clicking
+            #if event.type == pygame.KEYDOWN:
+            #if event.type == pygame.KEYUP:
+            #if event.type == pygame.MOUSEMOTION:
+            #if event.type == pygame.MOUSEWHEEL:
+            #if event.type == pygame.MOUSEBUTTONDOWN:
+            #if event.type == pygame.MOUSEBUTTONUP:
+            
         CLOCK.tick(60)
         draw(WINDOW,BG_COLOR)
     pygame.quit()
