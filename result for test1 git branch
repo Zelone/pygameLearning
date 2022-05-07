@@ -1,0 +1,806 @@
+NNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(177, 100)
+(-42, -28)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(131, 53)
+(-46, -47)
+NNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(131, 53)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(129, 51)
+(-2, -2)
+NNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(115, 40)
+(-14, -11)
+NNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(107, 30)
+(-8, -10)
+NNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(111, 32)
+(4, 2)
+NNNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(379, 53)
+(268, 21)
+NNNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(577, 47)
+(198, -6)
+NNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(603, 14)
+(26, -33)
+NNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': 'r', 'key': 114, 'mod': 4096, 'scancode': 21, 'window': None})>
+r 114
+(640, 0)
+(37, -15)
+NNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+NNNNNNNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': '1', 'key': 49, 'mod': 4096, 'scancode': 30, 'window': None})>
+1 49
+(172, 241)
+(68, 20)
+NNN<Event(769-KeyUp {'unicode': '2', 'key': 50, 'mod': 4096, 'scancode': 31, 'window': None})>
+2 50
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '3', 'key': 51, 'mod': 4096, 'scancode': 32, 'window': None})>
+3 51
+(172, 241)
+(0, 0)
+NNNNN<Event(769-KeyUp {'unicode': '4', 'key': 52, 'mod': 4096, 'scancode': 33, 'window': None})>
+4 52
+(172, 241)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '5', 'key': 53, 'mod': 4096, 'scancode': 34, 'window': None})>
+5 53
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '6', 'key': 54, 'mod': 4096, 'scancode': 35, 'window': None})>
+6 54
+(172, 241)
+(0, 0)
+NNNNN<Event(769-KeyUp {'unicode': '7', 'key': 55, 'mod': 4096, 'scancode': 36, 'window': None})>
+7 55
+(172, 241)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '8', 'key': 56, 'mod': 4096, 'scancode': 37, 'window': None})>
+8 56
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '9', 'key': 57, 'mod': 4096, 'scancode': 38, 'window': None})>
+9 57
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '0', 'key': 48, 'mod': 4096, 'scancode': 39, 'window': None})>
+0 48
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '1', 'key': 1073741913, 'mod': 4096, 'scancode': 89, 'window': None})>
+1 1073741913
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '2', 'key': 1073741914, 'mod': 4096, 'scancode': 90, 'window': None})>
+2 1073741914
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '3', 'key': 1073741915, 'mod': 4096, 'scancode': 91, 'window': None})>
+3 1073741915
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '4', 'key': 1073741916, 'mod': 4096, 'scancode': 92, 'window': None})>
+4 1073741916
+(172, 241)
+(0, 0)
+NNNNN<Event(769-KeyUp {'unicode': '5', 'key': 1073741917, 'mod': 4096, 'scancode': 93, 'window': None})>
+5 1073741917
+(172, 241)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '6', 'key': 1073741918, 'mod': 4096, 'scancode': 94, 'window': None})>
+6 1073741918
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '7', 'key': 1073741919, 'mod': 4096, 'scancode': 95, 'window': None})>
+7 1073741919
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '8', 'key': 1073741920, 'mod': 4096, 'scancode': 96, 'window': None})>
+8 1073741920
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '9', 'key': 1073741921, 'mod': 4096, 'scancode': 97, 'window': None})>
+9 1073741921
+(172, 241)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '0', 'key': 1073741922, 'mod': 4096, 'scancode': 98, 'window': None})>
+0 1073741922
+(172, 241)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN<Event(769-KeyUp {'unicode': '/', 'key': 1073741908, 'mod': 4096, 'scancode': 84, 'window': None})>
+/ 1073741908
+(144, 68)
+(11, 34)
+NNN<Event(769-KeyUp {'unicode': '*', 'key': 1073741909, 'mod': 4096, 'scancode': 85, 'window': None})>
+* 1073741909
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '-', 'key': 1073741910, 'mod': 4096, 'scancode': 86, 'window': None})>
+- 1073741910
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '+', 'key': 1073741911, 'mod': 4096, 'scancode': 87, 'window': None})>
++ 1073741911
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '-', 'key': 45, 'mod': 4096, 'scancode': 45, 'window': None})>
+- 45
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '=', 'key': 61, 'mod': 4096, 'scancode': 46, 'window': None})>
+= 61
+(144, 68)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': '+', 'key': 61, 'mod': 4098, 'scancode': 46, 'window': None})>
++ 61
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '_', 'key': 45, 'mod': 4098, 'scancode': 45, 'window': None})>
+_ 45
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742053, 'mod': 4096, 'scancode': 229, 'window': None})>
+ 1073742053
+(144, 68)
+(0, 0)
+NNNNNN<Event(769-KeyUp {'unicode': '!', 'key': 49, 'mod': 4097, 'scancode': 30, 'window': None})>
+! 49
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '@', 'key': 50, 'mod': 4097, 'scancode': 31, 'window': None})>
+@ 50
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '#', 'key': 51, 'mod': 4097, 'scancode': 32, 'window': None})>
+# 51
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '$', 'key': 52, 'mod': 4097, 'scancode': 33, 'window': None})>
+$ 52
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '%', 'key': 53, 'mod': 4097, 'scancode': 34, 'window': None})>
+% 53
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '^', 'key': 54, 'mod': 4097, 'scancode': 35, 'window': None})>
+^ 54
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '&', 'key': 55, 'mod': 4097, 'scancode': 36, 'window': None})>
+& 55
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '*', 'key': 56, 'mod': 4097, 'scancode': 37, 'window': None})>
+* 56
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '(', 'key': 57, 'mod': 4097, 'scancode': 38, 'window': None})>
+( 57
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(144, 68)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': ')', 'key': 48, 'mod': 4097, 'scancode': 39, 'window': None})>
+) 48
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '{', 'key': 91, 'mod': 4097, 'scancode': 47, 'window': None})>
+{ 91
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '}', 'key': 93, 'mod': 4097, 'scancode': 48, 'window': None})>
+} 93
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '[', 'key': 91, 'mod': 4096, 'scancode': 47, 'window': None})>
+[ 91
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': ']', 'key': 93, 'mod': 4096, 'scancode': 48, 'window': None})>
+] 93
+(144, 68)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': ':', 'key': 59, 'mod': 4097, 'scancode': 51, 'window': None})>
+: 59
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '"', 'key': 39, 'mod': 4097, 'scancode': 52, 'window': None})>
+" 39
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': ';', 'key': 59, 'mod': 4096, 'scancode': 51, 'window': None})>
+; 59
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': "'", 'key': 39, 'mod': 4096, 'scancode': 52, 'window': None})>
+' 39
+(144, 68)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': '<', 'key': 44, 'mod': 4097, 'scancode': 54, 'window': None})>
+< 44
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '>', 'key': 46, 'mod': 4097, 'scancode': 55, 'window': None})>
+> 46
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '?', 'key': 47, 'mod': 4097, 'scancode': 56, 'window': None})>
+? 47
+(144, 68)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': ',', 'key': 44, 'mod': 4096, 'scancode': 54, 'window': None})>
+, 44
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '.', 'key': 46, 'mod': 4096, 'scancode': 55, 'window': None})>
+. 46
+(144, 68)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '/', 'key': 47, 'mod': 4096, 'scancode': 56, 'window': None})>
+/ 47
+(144, 68)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+F1 tests 
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN<Event(1025-MouseButtonDown {'pos': (155, 156), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(155, 156)
+(31, 135)
+N<Event(1026-MouseButtonUp {'pos': (155, 156), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741882, 'mod': 4096, 'scancode': 58, 'window': None})>
+ 1073741882
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741883, 'mod': 4096, 'scancode': 59, 'window': None})>
+ 1073741883
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741884, 'mod': 4096, 'scancode': 60, 'window': None})>
+ 1073741884
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741885, 'mod': 4096, 'scancode': 61, 'window': None})>
+ 1073741885
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741886, 'mod': 4096, 'scancode': 62, 'window': None})>
+ 1073741886
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741887, 'mod': 4096, 'scancode': 63, 'window': None})>
+ 1073741887
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741888, 'mod': 4096, 'scancode': 64, 'window': None})>
+ 1073741888
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741889, 'mod': 4096, 'scancode': 65, 'window': None})>
+ 1073741889
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741890, 'mod': 4096, 'scancode': 66, 'window': None})>
+ 1073741890
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741891, 'mod': 4096, 'scancode': 67, 'window': None})>
+ 1073741891
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741892, 'mod': 4096, 'scancode': 68, 'window': None})>
+ 1073741892
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741893, 'mod': 4096, 'scancode': 69, 'window': None})>
+ 1073741893
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742086, 'mod': 4096, 'scancode': 262, 'window': None})>
+ 1073742086
+(155, 156)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742086, 'mod': 4096, 'scancode': 262, 'window': None})>
+ 1073742086
+(155, 156)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+NNNNNNNNNNNNNNNN<Event(1025-MouseButtonDown {'pos': (149, 127), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(149, 127)
+(4, 19)
+N<Event(1026-MouseButtonUp {'pos': (149, 127), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F1>, 'key': 1073741882, 'mod': 4096, 'scancode': 58, 'window': None})>
+ 1073741882
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F2>, 'key': 1073741883, 'mod': 4096, 'scancode': 59, 'window': None})>
+ 1073741883
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F3>, 'key': 1073741884, 'mod': 4096, 'scancode': 60, 'window': None})>
+ 1073741884
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F4>, 'key': 1073741885, 'mod': 4096, 'scancode': 61, 'window': None})>
+ 1073741885
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F5>, 'key': 1073741886, 'mod': 4096, 'scancode': 62, 'window': None})>
+ 1073741886
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F6>, 'key': 1073741887, 'mod': 4096, 'scancode': 63, 'window': None})>
+ 1073741887
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F7>, 'key': 1073741888, 'mod': 4096, 'scancode': 64, 'window': None})>
+ 1073741888
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F8>, 'key': 1073741889, 'mod': 4096, 'scancode': 65, 'window': None})>
+ 1073741889
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F9>, 'key': 1073741890, 'mod': 4096, 'scancode': 66, 'window': None})>
+ 1073741890
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F10>, 'key': 1073741891, 'mod': 4096, 'scancode': 67, 'window': None})>
+ 1073741891
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F11>, 'key': 1073741892, 'mod': 4096, 'scancode': 68, 'window': None})>
+ 1073741892
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': ''<F12>, 'key': 1073741893, 'mod': 4096, 'scancode': 69, 'window': None})>
+ 1073741893
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '\x1b'<Esc>, 'key': 27, 'mod': 4096, 'scancode': 41, 'window': None})>
+7
+(149, 127)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '`', 'key': 96, 'mod': 4096, 'scancode': 53, 'window': None})>
+` 96
+(149, 127)
+(0, 0)
+NNNN<Event(769-KeyUp {'unicode': '~', 'key': 96, 'mod': 4097, 'scancode': 53, 'window': None})>
+~ 96
+(149, 127)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 4096, 'scancode': 224, 'window': None})>
+ 1073742048
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 4096, 'scancode': 224, 'window': None})>
+ 1073742048
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 4096, 'scancode': 224, 'window': None})>
+ 1073742048
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 4096, 'scancode': 224, 'window': None})>
+ 1073742048
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742053, 'mod': 4096, 'scancode': 229, 'window': None})>
+ 1073742053
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742053, 'mod': 4096, 'scancode': 229, 'window': None})>
+ 1073742053
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 4096, 'scancode': 225, 'window': None})>
+ 1073742049
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742053, 'mod': 4096, 'scancode': 229, 'window': None})>
+ 1073742053
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742052, 'mod': 4096, 'scancode': 228, 'window': None})>
+ 1073742052
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073742052, 'mod': 4096, 'scancode': 228, 'window': None})>
+ 1073742052
+(149, 127)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 4608, 'scancode': 224, 'window': None})>
+ 1073742048
+(149, 127)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742054, 'mod': 4096, 'scancode': 230, 'window': None})>
+ 1073742054
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741899, 'mod': 4096, 'scancode': 75, 'window': None})>
+ 1073741899
+(149, 127)
+(0, 0)
+NN<Event(769-KeyUp {'unicode': '', 'key': 1073741902, 'mod': 4096, 'scancode': 78, 'window': None})>
+ 1073741902
+(149, 127)
+(0, 0)
+NNN<Event(769-KeyUp {'unicode': 'q', 'key': 113, 'mod': 4096, 'scancode': 20, 'window': None})>
+q 113
+(149, 127)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>D:/Python/Test3env/env/Scripts/python.exe d:/Python/Test3env/test1.py
+pygame 2.1.2 (SDL 2.0.18, Python 3.9.7)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN<Event(1025-MouseButtonDown {'pos': (238, 193), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(238, 193)
+(-45, 195)
+N<Event(1026-MouseButtonUp {'pos': (238, 193), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(238, 193)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (238, 193), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(238, 193)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNN<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(480, 441)
+(242, 248)
+N<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(480, 441)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(480, 441)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(480, 441)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+DOWN 5
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 5, 'touch': False, 'window': None})>
+UP 5
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+DOWN 4
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 4, 'touch': False, 'window': None})>
+UP 4
+(480, 441)
+(0, 0)
+NNNNNNNNNNNNNN<Event(1025-MouseButtonDown {'pos': (480, 441), 'button': 3, 'touch': False, 'window': None})>
+DOWN 3
+(480, 441)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (480, 441), 'button': 3, 'touch': False, 'window': None})>
+UP 3
+(480, 441)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742051, 'mod': 5120, 'scancode': 227, 'window': None})>
+ 1073742051
+(480, 441)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742048, 'mod': 5184, 'scancode': 224, 'window': None})>
+ 1073742048
+(480, 441)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742049, 'mod': 5185, 'scancode': 225, 'window': None})>
+ 1073742049
+(480, 441)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 5184, 'scancode': 225, 'window': None})>
+ 1073742049
+(480, 441)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 5120, 'scancode': 224, 'window': None})>
+ 1073742048
+(480, 441)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742051, 'mod': 4096, 'scancode': 227, 'window': None})>
+ 1073742051
+(480, 441)
+(0, 0)
+NNNNNNNNNNNNNNN<Event(768-KeyDown {'unicode': '', 'key': 1073742051, 'mod': 5120, 'scancode': 227, 'window': None})>
+ 1073742051
+(335, 16)
+(1, -9)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742048, 'mod': 5184, 'scancode': 224, 'window': None})>
+ 1073742048
+(335, 16)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742049, 'mod': 5185, 'scancode': 225, 'window': None})>
+ 1073742049
+(335, 16)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 5184, 'scancode': 225, 'window': None})>
+ 1073742049
+(335, 16)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 5120, 'scancode': 224, 'window': None})>
+ 1073742048
+(335, 16)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742051, 'mod': 4096, 'scancode': 227, 'window': None})>
+ 1073742051
+(335, 16)
+(0, 0)
+NNNNNN<Event(1025-MouseButtonDown {'pos': (335, 16), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(335, 16)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNN<Event(1026-MouseButtonUp {'pos': (272, 310), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(272, 310)
+(-63, 294)
+N<Event(1025-MouseButtonDown {'pos': (272, 310), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(272, 310)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNNNNNNN<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(182, -131)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(1025-MouseButtonDown {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+DOWN 1
+(454, 179)
+(0, 0)
+N<Event(1026-MouseButtonUp {'pos': (454, 179), 'button': 1, 'touch': False, 'window': None})>
+UP 1
+(454, 179)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742051, 'mod': 5120, 'scancode': 227, 'window': None})>
+ 1073742051
+(454, 179)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742048, 'mod': 5184, 'scancode': 224, 'window': None})>
+ 1073742048
+(454, 179)
+(0, 0)
+N<Event(768-KeyDown {'unicode': '', 'key': 1073742049, 'mod': 5185, 'scancode': 225, 'window': None})>
+ 1073742049
+(454, 179)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742049, 'mod': 5184, 'scancode': 225, 'window': None})>
+ 1073742049
+(454, 179)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742048, 'mod': 5120, 'scancode': 224, 'window': None})>
+ 1073742048
+(454, 179)
+(0, 0)
+N<Event(769-KeyUp {'unicode': '', 'key': 1073742051, 'mod': 4096, 'scancode': 227, 'window': None})>        
+ 1073742051
+(454, 179)
+(0, 0)
+NNNNNNNNNNNNNNNNNNNQ: <Event(256-Quit {})>
+
+(env) D:\Python\Test3env>
